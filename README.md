@@ -24,6 +24,7 @@ This Python project extracts structured information such as **Name**, **Email**,
 Install required libraries using `pip`:
 
 ```bash
+pip install -r requirements.txt
 pip install pdfplumber PyMuPDF pytesseract pillow python-docx spacy
 python -m spacy download en_core_web_sm
 ```

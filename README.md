@@ -1,4 +1,4 @@
-# Document Field Extraction Tool
+# Document Field Extraction
 
 This Python project extracts structured information such as **Name**, **Email**, **Phone Number**, and **Policy Number** from documents in various formats (PDF, DOCX, TXT). It uses a combination of **regular expressions** and **spaCy NER** for extraction, and can handle scanned PDFs using OCR.
 
